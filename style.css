@@ -1,0 +1,214 @@
+
+body {background-color: #373737;}
+
+
+.textbox
+{
+
+margin:auto;
+width:800px;
+
+}
+
+
+
+
+
+
+
+
+
+.logo-container {
+    text-align: center;
+}
+  
+
+.header
+{
+text-align: center;
+font-size: 30px;
+background: -webkit-linear-gradient(45deg, #00C1D4 0%, #ffffff 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+
+
+}
+
+
+.postanowieniaheader
+{
+    text-align: center;
+    margin-top: 80px;
+    font-style: bold;
+    font-size: 26px;
+  color:#00c2d4e1;
+
+}
+.postanowienia
+{
+    font-size:20px;
+text-align: center;
+margin-top: 40px;
+font-style:normal;
+color:white;
+
+}
+.ogolneheader{
+    text-align: center;
+    margin-top: 100px;
+    font-style: bold;
+    font-size: 26px;
+    color:#00c2d4e1;
+
+
+}
+.ogolnezasady
+
+{
+    font-size:20px;
+text-align: center;
+margin-top:40px;
+color:white;
+
+}
+
+.sprawadoadmheader{
+    text-align: center;
+    margin-top: 100px;
+    font-style: bold;
+    font-size: 26px;
+    color:#00c2d4e1;
+}
+
+
+.sprawadoadm
+{
+    font-size:20px;
+text-align: center;
+margin-top:40px;
+color:white;
+}
+
+.komunikacjaheader{
+    text-align: center;
+    margin-top: 100px;
+    font-style: bold;
+    font-size: 26px;
+    color:#00c2d4e1;
+}
+
+.komunikacja
+{
+    font-size:20px;
+    text-align: center;
+    margin-top:40px;
+    color:white;
+
+}
+
+
+.postacieheader{
+    text-align: center;
+    margin-top: 100px;
+    font-style: bold;
+    font-size: 26px;
+    color:#00c2d4e1;
+}
+.postacie
+
+{
+    font-size:20px;
+    text-align: center;
+    margin-top:40px;
+    color:white;
+
+}
+.przestepstwaheader{
+    text-align: center;
+    margin-top: 100px;
+    font-style: bold;
+    font-size: 26px;
+    color:#00c2d4e1;
+}
+
+
+.przestepstwa
+
+{
+    font-size:20px;
+
+    text-align: center;
+    margin-top:40px;
+    color:white;
+
+}
+
+.pojazdyprzedmiotyheader{
+    text-align: center;
+    margin-top: 100px;
+    font-style: bold;
+    font-size: 26px;
+    color:#00c2d4e1;
+}
+
+.pojazdyprzedmioty
+
+{
+    font-size:20px;
+    text-align: center;
+    margin-top:40px;
+    color:white;
+
+
+}
+
+.organizacjeheader{
+    text-align: center;
+    margin-top: 100px;
+    font-style: bold;
+    font-size: 26px;
+    color:#00c2d4e1;
+}
+.organizacje
+
+{
+    font-size:20px;
+    text-align: center;
+    margin-top:40px;
+    color:white;
+
+
+}
+.pojeciaheader{
+    text-align: center;
+    margin-top: 100px;
+    font-style: bold;
+    font-size: 26px;
+    color:#00c2d4e1;
+}
+.pojecia
+
+{
+    font-size:20px;
+    text-align: center;
+    margin-top:40px;
+    color:white;
+
+}
+
+
+
+
+
+.footer
+{
+
+text-align: center;
+
+color:#00c2d4e1;
+
+}
+
+
+
